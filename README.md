@@ -117,7 +117,7 @@ This may reduce heat but wastes energy.
 
 3. MPC Control: Model Predictive Control uses the trained model to predict future states and choose the best action.
 It minimizes:
-<img width="328" height="99" alt="image" src="https://github.com/user-attachments/assets/631d630d-8717-42ff-8424-4b9e0f44a10f" />
+<img width="328" height="99" alt="image" src="https://github.com/user-attachments/assets/631d630d-8717-42ff-8424-4b9e0f44a10f" />>
 
 Where:
 -->Temperature deviation is penalized
